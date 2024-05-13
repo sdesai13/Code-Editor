@@ -10,4 +10,6 @@ In the next version, users will be able to run lightweight code directly in the 
 
 Stay tuned for the installation and usage guide!
 
-!![image](https://github.com/sdesai13/Code-Editor/blob/main/all_notes.jpg)
+![image](https://github.com/sdesai13/Code-Editor/blob/main/all_notes.jpg)
+
+![image](https://github.com/sdesai13/Code-Editor/blob/main/example_Code.jpg)
